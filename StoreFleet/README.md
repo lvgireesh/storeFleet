@@ -1,4 +1,4 @@
-# StoreFleet Capstone Project
+# StoreFleet Project
 
 StoreFleet is an Express, MongoDB and Mongoose backend for a small e-commerce application.
 
